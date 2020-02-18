@@ -1,0 +1,40 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  text-align:center;
+}
+
+a {
+  color: #00B7FF;
+}
+
+
+h1{
+  padding:5px;
+  background-color:yellow;
+}
+
+
+
+nav{
+  width:100%;
+  display:flex;
+  justify-content: space-between;
+  align-items: center;
+  a{
+    color:black;
+    padding:5px 20px 5px 20px;
+    background-color: aqua;
+   
+  }
+  a:hover{
+    background-color:black ;
+    color: aqua;
+  }
+}
+
+.important{
+  color:red;
+  font-weight: bold;
+  text-transform: uppercase;
+}
