@@ -61,7 +61,7 @@ hbs.registerHelper('ifUndefined', (value, options) => {
   
 
 // default value for title local
-app.locals.title = 'Express - Generated with IronGenerator';
+app.locals.title = 'HEROKU DEPLOY MASTERING 100% REAL';
 
 
 // Enable authentication using session + passport
